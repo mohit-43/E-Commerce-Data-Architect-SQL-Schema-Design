@@ -16,7 +16,7 @@ This project demonstrates a professional **Data Engineering workflow**: from arc
 \<details\>
 \<summary\>📂 \<b\>View Database Architecture (ERD)\</b\>\</summary\>
 
-> Insert your [https://dbdiagram.io/d/69d0b9680f7c9ef2c0797338] here.
+>  ERD DIAGRAM LINK  [https://dbdiagram.io/d/69d0b9680f7c9ef2c0797338]
 
   * **Junction Tables:** Handles many-to-many relationships between Orders and Products.
   * **Data Integrity:** Implements Foreign Keys, Unique constraints, and `ON DELETE` logic.
